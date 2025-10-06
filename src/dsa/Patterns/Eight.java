@@ -1,4 +1,4 @@
-package Patterns;
+package dsa.Patterns;
 
 import java.util.Scanner;
 
@@ -25,3 +25,9 @@ public class Eight {
         }
     }
 }
+
+//	                *
+//              *
+//          *
+//      *
+//  *
